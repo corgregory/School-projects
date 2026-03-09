@@ -1,0 +1,27 @@
+# Visual Studio
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.log
+*.suo
+*.vcxproj.user
+.vs/
+Debug/
+Release/
+
+# Java / NetBeans
+build/
+dist/
+*.class
+
+# IntelliJ / Android Studio
+.idea/
+.gradle/
+app/build/
+
+# Windows junk
+Thumbs.db
